@@ -1,3 +1,4 @@
+// Program to get a peak element of an array uisng binary search 
 int find_peak_element(vector<int> arr){
     int i = 0;
     int j = arr.size() - 1;
