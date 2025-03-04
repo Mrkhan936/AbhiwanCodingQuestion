@@ -1,3 +1,4 @@
+// program to reverse the word of the string without changing it's position
 #include<iostream>
 #include<string>
 using namespace std;
